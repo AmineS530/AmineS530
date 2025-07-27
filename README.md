@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![asadik's 42 stats](https://badge.mediaplus.ma/colorfulwaves/asadik)](https://github.com/oakoudad/badge42)
--->
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+-->
 
 ###
 
@@ -26,10 +26,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=AmineS530&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="300" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=AmineS530&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://imgflip.com/gif/a1fd9i"  />
 
 ###
 
@@ -62,8 +58,6 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/AmineS530/AmineS530/output/snake.svg" alt="Snake animation" />
 

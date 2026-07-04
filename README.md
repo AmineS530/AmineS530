@@ -22,7 +22,7 @@ I'm Amine, a **Software Engineering Student @ Zone01 Oujda** 🇲🇦, part of t
 
 I like building things end to end: secure APIs, clean data models, and the UI on top of them. Right now I'm aiming for **Full-Stack Java Developer** and **Backend Engineer** roles, based in Morocco and open to remote work.
 
-- 🔭 Currently building **[01-blog](https://github.com/AmineS530)**, a full-stack blog platform with Spring Boot and Angular: JWT auth with refresh token rotation, GraphQL, real-time WebSocket notifications, and DTO-driven performance tuning
+- 🔭 Currently building **[01-blog](https://github.com/AmineS530/01-blog-public)**, a full-stack blog platform with Spring Boot and Angular: JWT auth with refresh token rotation, GraphQL, real-time WebSocket notifications, and DTO-driven performance tuning
 - 🌱 Recently finished **push_swap** in Go, a sorting algorithm built from scratch with custom stack primitives, tuned for minimal instruction count
 - 👯 Open to collaborating on backend-heavy or full-stack side projects
 - 💬 Ask me about Spring Boot, JWT auth, Angular, or low-level systems work in Go/C/Rust
